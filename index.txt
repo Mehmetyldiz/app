@@ -1,2 +1,3 @@
 Merhaba
 remote Master dan gelen guncelleme
+remote master dan ikinci satır
